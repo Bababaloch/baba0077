@@ -226,7 +226,7 @@ def main():
 
 		xchker()
 
-		os.system('xdg-open https://github.com/SODHAIRy')
+		os.system
 
 		main()
 
